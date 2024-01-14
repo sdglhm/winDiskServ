@@ -1,5 +1,7 @@
 # winDiskServ
 
+![App running](app-running-screenshot.png)
+   
 winDiskServ is a simple Go program that provides system specifications and disk space information through a web interface. It runs as a service on Windows, allowing you to access the information remotely on the same LAN.
 
 ## Features
